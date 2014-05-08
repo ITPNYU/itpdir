@@ -1,0 +1,8 @@
+[database]
+DATABASE_URI: mysql://dbname:password@127.0.0.1/itpdir?charset=utf8&use_unicode=0
+
+[key]
+KEY: APIKEYHERE
+
+[secrets]
+SECRET: FLASKAPPSECRETHERE
